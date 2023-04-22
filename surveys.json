@@ -1,0 +1,29 @@
+{
+  "SurveyList": [
+    {
+      "Question": "What's your name",
+      "Answers": "My name is Raul"
+    },
+    {
+      "Question": "How old are you",
+      "Answers": "17 years old"
+    },
+    {
+      "Question": "What will you do if",
+      "Answers": [
+        {
+          "Situations": [
+            "I'm tired",
+            "I'm married",
+            "I'm not"
+          ],
+          "Actions": [
+            "Rest",
+            "Enjoy",
+            "Nothing in particular"
+          ]
+        }
+      ]
+    }
+  ]
+}
